@@ -1,7 +1,6 @@
 ## Olá, Sou um desenvolvedor Full-Stacks!
- Trabalho a quase 2 anos com desenvolvedor Full-Stacks javascript e me especializei principalmente em:
- <br>
- Express | React | Typescript | Nest.Js | Postgres | jest | Docker
+Desenvolvedor Essencialista e Organizado que busca entregar o seu melhor e tem como objetivo se aperfeiçõar principalmente no desenvolvimento backend.
+Minha principal competência é o desenvolvimento Full-Stacks com javascript e typescript, no qual tenho experiência comercial a 1 ano e 10 meses.
 <div> 
   <a href="https://www.instagram.com/_marcelovtn/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:marceloccunifor@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
